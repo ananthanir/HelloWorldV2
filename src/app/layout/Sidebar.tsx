@@ -71,7 +71,7 @@ export default function Sidebar({
         <Tooltip title="Source of this project" arrow placement="right">
           <Link
             target="_blank"
-            href={"https://github.com/ananthanir/ananthanir.github.io"}
+            href={"https://github.com/ananthanir/HelloWorldV2"}
             underline="none"
             color="inherit"
             sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
