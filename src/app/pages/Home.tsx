@@ -54,7 +54,7 @@ export default function Home({ setSelectedIndex }: Props) {
             >
               <Typography width={550} variant="subtitle1" gutterBottom>
               
-              I like isekai stories where the hero gets teleported to a magical world and gains magical abilities. While I haven't experienced that yet, there are still two places where I can practice magic:  within the imaginary realms and through the art of programming.... I aim to become a Grate sage 😎
+              I like isekai stories where the hero gets teleported to a magical world and acquires magical abilities. While I haven't experienced that yet, there are still two places where I can practice magic:  within the imaginary realms and through the art of programming.... I aim to become a Grate sage 😎
               <br/><br/>
               The only real limitation is the one you set for yourself.
                 {/* Better an{' '}
