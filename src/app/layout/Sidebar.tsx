@@ -44,8 +44,8 @@ export default function Sidebar({
             borderLeft: expanded
               ? "solid 0.12em white"
               : darkMode
-              ? "solid 0.12em #333333"
-              : "solid 0.12em #2c2c2c",
+                ? "solid 0.12em #333333"
+                : "solid 0.12em #2c2c2c",
             cursor: "pointer",
             WebkitTapHighlightColor: "rgba(0,0,0,0)",
           }}
@@ -165,24 +165,31 @@ export default function Sidebar({
             )}
           </Box>
         </Tooltip>
-        <Box
-          sx={{
-            flexGrow: 0,
-            fontSize: 24,
-            color: "#858585",
-            cursor: "pointer",
-            "&:hover": {
-              color: "white",
-            },
-            WebkitTapHighlightColor: "rgba(0,0,0,0)",
-          }}
-          display="flex"
-          justifyContent="center"
+        <Link
+          href=''
+          underline="none"
+          color="inherit"
+          sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
         >
-          <Box mt={0.7}>
-            <VscSettingsGear />
+          <Box
+            sx={{
+              flexGrow: 0,
+              fontSize: 24,
+              color: "#858585",
+              cursor: "pointer",
+              "&:hover": {
+                color: "white",
+              },
+              WebkitTapHighlightColor: "rgba(0,0,0,0)",
+            }}
+            display="flex"
+            justifyContent="center"
+          >
+            <Box mt={0.7}>
+              <VscSettingsGear />
+            </Box>
           </Box>
-        </Box>
+        </Link>
       </Box>
     </Box>
   );

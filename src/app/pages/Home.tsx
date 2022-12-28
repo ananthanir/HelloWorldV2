@@ -23,7 +23,7 @@ export default function Home({ setSelectedIndex }: Props) {
   }, [setSelectedIndex]);
 
   useEffect(() => {
-    document.title = process.env.REACT_APP_NAME!;
+    document.title = 'Ananthan';
   }, [pathname]);
 
   return (
@@ -45,14 +45,14 @@ export default function Home({ setSelectedIndex }: Props) {
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
-              <Typography variant="h3">{process.env.REACT_APP_NAME}</Typography>
+              <Typography variant="h3">{'Ananthan'}</Typography>
             </Grid>
             <Grid
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                Always difficult, always beautiful
+              The only real limitation is the one you set for yourself.
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
                   oops
