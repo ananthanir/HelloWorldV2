@@ -38,20 +38,24 @@ export default function Home({ setSelectedIndex }: Props) {
       <Grid item xs={3}>
         <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2}>
           <Box display="flex" sx={{ justifyContent: "center" }}>
-            <img src={logo} width="250px" alt="logo" />
+            <img src={logo} width={300} height={300} alt="logo" />
           </Box>
           <Box>
             <Grid
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
-              <Typography variant="h3">{'Ananthan'}</Typography>
+              <Typography variant="h3">Ananthan Rajasekharan</Typography>
             </Grid>
+            <br/>
             <Grid
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
-              <Typography variant="subtitle1" gutterBottom>
+              <Typography width={550} variant="subtitle1" gutterBottom>
+              
+              I like isekai stories where the hero gets teleported to a magical world and gains magical abilities. While I haven't experienced that yet, there are still two places where I can practice magic:  within the imaginary realms and through the art of programming.... I aim to become a Grate sage 😎
+              <br/><br/>
               The only real limitation is the one you set for yourself.
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
