@@ -33,7 +33,7 @@
     <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/adc428d165e8188f82000c83d2742649bbc2087d/assets/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
     <a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/adc428d165e8188f82000c83d2742649bbc2087d/assets/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
     <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/adc428d165e8188f82000c83d2742649bbc2087d/assets/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
-    <a href="https://www.infura.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/adc428d165e8188f82000c83d2742649bbc2087d/assets/infura-logo.svg" width="36" height="36" alt="Infura" /></a>
+    <a href="https://www.infura.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/bd909bf3556cecf398024fca0e181b837491928f/assets/infura-logo.svg" width="36" height="36" alt="Infura" /></a>
 </p>
 
 ## Additional Skills
