@@ -43,4 +43,5 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/adc428d165e8188f82000c83d2742649bbc2087d/assets/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/adc428d165e8188f82000c83d2742649bbc2087d/assets/go-colored.svg" width="36" height="36" alt="Go" /></a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/adc428d165e8188f82000c83d2742649bbc2087d/assets/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+    <a href="https://gymnasium.farama.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ananthanir/HelloWorldV2/e07f51ed4d2473aae4b870c170944a5ce64a4091/assets/gym.svg" width="36" height="36" alt="Gymnasium" /></a>
 </p>
